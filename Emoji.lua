@@ -13,6 +13,7 @@ local StarId = {
 	[1788647547] = true,
 	[1274852399] = true,
 	[1092029300] = true,
+	[3270320985] = true,
 }
 
 local CrownId = {}
