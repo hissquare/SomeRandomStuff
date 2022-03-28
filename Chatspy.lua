@@ -1,3 +1,4 @@
+-- chat spy
 ENABLE = true
 SPYLOCALPLAYER = true
 PUBLIC = false
