@@ -2,7 +2,7 @@
 
 local function Banned(UserID, Reason)
 	if game:GetService('Players').LocalPlayer.UserId == UserID then
-		game:GetService('Players').LocalPlayer:Kick('RAYX BANNED : '..Reason)
+		game:GetService('Players').LocalPlayer:Kick('GAY X BANNED : '..Reason)
 	end
 end
 
