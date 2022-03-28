@@ -191,7 +191,7 @@ function Aiming.IgnoreTeam(Team, TeamColor)
 		end
 	end
 
-	-- // Ignore team
+	-- // Ignore team xd
 	tableinsert(IgnoredTeams, {Team, TeamColor})
 	return true
 end
